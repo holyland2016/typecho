@@ -1,19 +1,3 @@
-Typecho Blogging Platform
-=========================
+typecho是wordpress的精简版
 
-Typecho is a PHP Blogging Platform. Simple and Powerful.
-
-#### Telegram Channel
-https://t.me/typechodev
-
-#### Homepage
-http://typecho.org/
-
-#### Documents
-http://docs.typecho.org/
-
-#### Community
-http://forum.typecho.org/
-
-#### Download
-http://typecho.org/download
+麻雀虽小，五脏俱全，但是它总归还是小，感觉不够用，于是打算重写一些哈
